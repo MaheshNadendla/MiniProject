@@ -1,0 +1,17 @@
+MONGODB_URI='your mongodb url'
+PORT=5000
+JWT_SECRET=hard
+
+NODE_ENV=development
+
+
+CLOUDINARY_CLOUD_NAME='your cloudnary name'
+CLOUDINARY_API_KEY='your cloudnary api key'
+CLOUDINARY_API_SECRET='your cloudnary api secret'
+
+
+
+NODE_MAIL_EMAIL='your brevo smtp email'
+NODE_MAIL_HOST='your brevo smtp host'
+NODE_MAIL_USERNAME='your brevo smtp username'
+NODE_MAIL_PASSWORD='your brevo smtp password'
